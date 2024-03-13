@@ -3,7 +3,7 @@
     "name": "kokizzu/elm-visualization",
     "summary": "Clone of kokizzu/elm-visualization 2.1.2 with proper dependency",
     "license": "MIT",
-    "version": "2.1.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "Scale",
         "Scale.Color",
