@@ -30,7 +30,7 @@
         "ianmackenzie/elm-geometry": "3.6.0 <= v < 4.0.0",
         "ianmackenzie/elm-units-prefixed": "2.0.0 <= v < 3.0.0",
         "justinmimbs/time-extra": "1.0.1 <= v < 2.0.0",
-        "kokizzu/elm-date-format": "2.0.0 <= v < 3.0.0"
+        "kokizzu/elm-date-format": "1.0.0 <= v < 2.0.0"
     },
     "test-dependencies": {
         "elm/regex": "1.0.0 <= v < 2.0.0",
